@@ -1,0 +1,34 @@
+{
+    "emailclient": {
+        "user": "example@webmail.com",
+        "password": "yourpassword to logintothemail",
+        "host": "imap.gmail.com",
+        "port": "993",
+        "tls": true,
+        "options": {               "_comment_": "These are the search options for the Emails to check!",
+            "FROM": "example@webmail.com",
+            "TO": "",
+            "SUBJECT": "",
+            "DATE": ""
+        },
+        "INPUT_BOX": "Inbox", "comment": "If you are having a subbox / label where the emails should be found type them, Example: [Gmail]/Spam, Milrato/Paypal,  INBOX   | YOU WILL SEE ALL AVAILABLE BOXES WHEN STARTING THE EMAIL CLIENT!",
+        "loop_check_time_in_min": 1
+    },
+    
+    "token": "Nzg2OTYy20912ujEwNDE4.X9OBASDA.82bPzcn4MK9wsAy0QWyspdq1mac",
+    "channel": "782293879475011664",
+    "embed": {
+        "color": "#f4ff00",
+        "Thumbnail": "",
+        "Footer": {
+            "ALLOW": false,
+            "icon": "",
+            "text": ""
+        },
+        "Author": {
+            "ALLOW": false,
+            "icon": "",
+            "text": ""
+        }
+    }
+}
